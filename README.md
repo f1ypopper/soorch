@@ -1,2 +1,2 @@
 # soorch
-Tsoding's seroost without the xml parsing.
+Tsoding's seroost with threads and without the xml parsing.
